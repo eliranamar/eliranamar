@@ -35,6 +35,7 @@ Building <a href="https://github.com/coinable">Coinable</a>. I believe in decent
     <a href="#"><img alt="Phoenix Framework" src="https://img.shields.io/badge/Phoenix_Framework-e97d23?logo=bird&logoColor=pink"></a>
     <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-white?logo=rust&logoColor=black"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-FE6025?logo=figma&logoColor=white"></a>
+    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-5C57E0?logo=brave&logoColor=white"></a>
 </p>
 
 
