@@ -4,7 +4,7 @@ Hi, I'm Legendree ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F7CC07&lines=Distributed+Applications;High+Concurrency;Elixir+%7C+WebRTC+%7C+Ejabbered+%7C+XMPP" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=F7CC07&center=true&lines=Distributed+Applications;High+Concurrency;Elixir+%7C+WebRTC+%7C+Ejabbered+%7C+XMPP" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <samp>
