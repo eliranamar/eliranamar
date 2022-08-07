@@ -13,8 +13,6 @@ Building @coinablepay. I believe in decentralized, accessible future. Working wi
 <br/>
 <br/>
 
-## 🛠️ My Favorite Tools
-
 ### 👨🏻‍💻 Stuff I Use Daily
 
 <p>
