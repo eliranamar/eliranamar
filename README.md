@@ -8,7 +8,7 @@ Hi, I'm Legendree ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 </p>
 <hr/>
 <samp>
-Building @coinablepay. I believe in decentralized, accessible future. Working with Elixir (Erlang), React + TypeScript. Interested in XMPP & WebRTC.
+Building <a herf="https://github.com/coinable">@coinablepay</a>. I believe in decentralized, accessible future. Working with Elixir (Erlang), React + TypeScript. Interested in XMPP & WebRTC.
 </samp>
 <br/>
 <br/>
