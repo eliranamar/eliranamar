@@ -32,7 +32,7 @@ Building <a href="https://github.com/coinable">Coinable</a>. I believe in decent
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Elixir" src="https://img.shields.io/badge/Elixir-4e2a8e?logo=elixir&logoColor=white"></a>
     <a href="#"><img alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-white?logo=styled-components&logoColor=pink"></a>
-     <a href="#"><img alt="Phoenix Framework" src="https://img.shields.io/badge/Phoenix-e97d23?logo=bird&logoColor=pink"></a>
+     <a href="#"><img alt="Phoenix Framework" src="https://img.shields.io/badge/Phoenix_Framework-e97d23?logo=bird&logoColor=pink"></a>
     
 </p>
 
