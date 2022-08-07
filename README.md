@@ -12,7 +12,7 @@ Building <a href="https://github.com/coinable">Coinable</a>. I believe in decent
 <br/>
 <br/>
 
-### 👨🏻‍💻 Stuff I Use Daily
+### 👨🏻‍💻 My ride or die
 
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
