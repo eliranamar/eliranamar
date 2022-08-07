@@ -38,6 +38,7 @@ Building <a href="https://github.com/coinable">Coinable</a>. I believe in decent
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-5C57E0?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Dash" src="https://img.shields.io/badge/Dash-5776E0?logo=dash&logoColor=white"></a>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_Web_Services-black?logo=amazon&logoColor=EB8F38"></a>
+    <a href="#"><img alt="XMPP" src="https://img.shields.io/badge/XMPP-green?logo=xmpp&logoColor=white"></a>
 </p>
 
 
