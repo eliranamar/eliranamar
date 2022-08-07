@@ -6,7 +6,7 @@ Hi, I'm Legendree ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=F7CC07&center=true&lines=Distributed+Applications;High+Concurrency;Elixir+%7C+WebRTC+%7C+Ejabbered+%7C+XMPP" alt="Typing SVG" /></a>
 </p>
-<hr/>
+
 <samp>
 Building <a href="https://github.com/coinable">Coinable</a>. I believe in decentralized, accessible future. Working with Elixir (Erlang), React + TypeScript. Interested in XMPP & WebRTC.
 </samp>
