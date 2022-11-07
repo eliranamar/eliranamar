@@ -29,7 +29,6 @@ Building <a href="https://github.com/coinable">Coinable</a>. I believe in decent
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_Web_Services-black?logo=amazon&logoColor=EB8F38"></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliranamar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
