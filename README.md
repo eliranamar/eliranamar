@@ -29,8 +29,4 @@ Building <a href="https://github.com/coinable">Coinable</a>. I believe in decent
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_Web_Services-black?logo=amazon&logoColor=EB8F38"></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliranamar/eliranamar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliranamar/eliranamar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eliranamar/eliranamar/output/pacman-contribution-graph.svg">
-</picture>
+
