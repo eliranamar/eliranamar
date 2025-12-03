@@ -3,13 +3,8 @@ Hi, I'm Eliran! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=F7CC07&center=true&lines=Fullstack+Engineer;Digital+Nomad;Investor+%7C+Gamer+%7C+Traveler+%7C+Foodie" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=F7CC07&center=true&lines=Fullstack+Engineer;Platform+Engineer;Digital+Nomad;Investor+%7C+Gamer+%7C+Traveler+%7C+Foodie" alt="Typing SVG" />
 </p>
-
-<!-- <samp>
-Building <a href="https://github.com/coinable">Coinable</a>. I believe in decentralized, accessible future. Working with Elixir (Erlang), React + TypeScript. Interested in XMPP & WebRTC.
-</samp> -->
-<br/>
 
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -29,4 +24,6 @@ Building <a href="https://github.com/coinable">Coinable</a>. I believe in decent
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_Web_Services-black?logo=amazon&logoColor=EB8F38"></a>
 </p>
 
+### Socials
 
+<p align="left"> <a href="https://www.github.com/eliranamar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/eliranamar/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.stackoverflow.com/users/eliranamar/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
