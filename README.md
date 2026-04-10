@@ -7,6 +7,11 @@ Hi, I'm Eliran! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy
 </p>
 
 <p>
+<!-- AI / Dev Tools -->
+<a href="#"><img alt="Warp" src="https://img.shields.io/badge/Warp-01A4FF.svg?logo=warp&logoColor=white"></a>
+<a href="#"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000.svg"></a>
+<a href="#"><img alt="Claude" src="https://img.shields.io/badge/Claude-6B3FA0.svg"></a>
+  
 <!-- Languages -->
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
