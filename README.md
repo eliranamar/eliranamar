@@ -42,6 +42,7 @@ Hi, I'm Eliran! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy
 <a href="#"><img alt="CloudFront" src="https://img.shields.io/badge/CloudFront-FF9900.svg?logo=amazonaws&logoColor=white"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
+<a href="#"><img alt="macOS" src="https://img.shields.io/badge/macOS-000000.svg?logo=apple&logoColor=white"></a>
 
 <!-- CI/CD -->
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=githubactions&logoColor=white"></a>
